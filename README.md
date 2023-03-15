@@ -1,8 +1,6 @@
-- Hello there!
-
-- I’m Raoul Verschoor, and a 42 student at Codam coding college in Amsterdam.
+- I’m Raoul Verschoor, and student at Codam coding college in Amsterdam from the 42 network.
  
-- I just finished all the projects of the common core, and I am currently looking for an internship.
+- I'm finished with the curiculum, and I am currently looking for an internship.
  
 - I have a lot of experience with c and c++, and wrote a lot of the parsers for my projects.
 
